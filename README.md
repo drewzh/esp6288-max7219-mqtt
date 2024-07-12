@@ -1,6 +1,6 @@
 # What is this?
 
-An MQTT-powered scrolling LED board firmware written in C++ for ESP8266. Compiles with PlatformIO/Arduino (I use PlatformIO) and flashes to very low-cost ESP8266 boards to make a very low-cost (around £14) retro scrolling LED marquee that's network controllable (super useful for things like Home Assistant notifications).
+An MQTT-powered scrolling LED board firmware written in C++ for ESP8266. Compiles with PlatformIO/Arduino (I use PlatformIO) and flashes to ESP8266 boards to make a very low-cost (around £15 all-in) retro scrolling LED marquee that's network controllable (super useful for things like Home Assistant notifications).
 
 # What's required?
 
