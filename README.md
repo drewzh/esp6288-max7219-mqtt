@@ -4,9 +4,9 @@ An MQTT-powered scrolling LED board firmware written in C++ for ESP8266. Compile
 
 # What's required?
 
-ESP8266 WiFi board: https://www.amazon.co.uk/dp/B0CCLB9PJ4/ref=twister_B0B38HSSWTf
-LED Display: https://www.amazon.co.uk/AZDelivery-MAX7219-Matrix-Display-Arduino/dp/B079HVW652
-3D Printed: https://www.printables.com/search/models?q=MAX7219&ctx=models
+- ESP8266 WiFi board: https://www.amazon.co.uk/dp/B0CCLB9PJ4/ref=twister_B0B38HSSWTf
+- LED Display: https://www.amazon.co.uk/AZDelivery-MAX7219-Matrix-Display-Arduino/dp/B079HVW652
+- 3D Printed: https://www.printables.com/search/models?q=MAX7219&ctx=models
 
 # How much effort to build the entire thing?
 
